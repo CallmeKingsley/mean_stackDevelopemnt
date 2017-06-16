@@ -1,0 +1,29 @@
+{
+  "name": "summerdev",
+  "version": "1.0.0",
+  "description": "Mean stack with angular 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallmeKingsley/mean_stackDevelopemnt.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "WITH",
+    "ANAGULAR2"
+  ],
+  "author": "Kingsley Akpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallmeKingsley/mean_stackDevelopemnt/issues"
+  },
+  "homepage": "https://github.com/CallmeKingsley/mean_stackDevelopemnt#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.6"
+  }
+}
